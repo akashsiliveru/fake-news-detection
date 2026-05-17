@@ -3,7 +3,6 @@
   <img src="https://img.shields.io/badge/scikit--learn-ML-orange?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/NLP-TF--IDF-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Accuracy-96.26%25-brightgreen?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge"/>
 </p>
 
 <h1 align="center">🕵️ Fake News Detection</h1>
